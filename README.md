@@ -1,6 +1,8 @@
 # mailfunc
 High-level SDK to interact with the imaplib and mail modules.
 
+The implemented functionality was aimed at downloading attachments from multiple emails simultaneously.
+
 Current functions are:
 - connect_to_inbox
 - switch_inbox
